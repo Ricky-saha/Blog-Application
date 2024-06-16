@@ -1,19 +1,10 @@
-# blog-appwrite
 
-![image](https://github.com/RameshNeupane/blog-appwrite/assets/45593423/7fda4ab9-011d-4cd0-97d2-9daab6f22f96)
-
-## Deployment
-
-[https://blog-appwrite-pied.vercel.app/](https://blog-appwrite-pied.vercel.app/)
 
 ## Setup
 
 This is a [React](https://react.dev/) project created with [Vite](https://vitejs.dev/). Make sure that you have installed React and Vite into your machine.
 
-- Clone or download github repository.
-  ```sh
-  git clone git@github.com:RameshNeupane/blog-appwrite.git
-  ```
+
 
 - Install npm dependencies.
   ```sh
