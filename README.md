@@ -1,8 +1,9 @@
 
-
+![real 3](https://github.com/Ricky-saha/Blog-Application/assets/134414493/596260e0-626c-444b-8432-1fdf991eb959)
 ## Setup
 
 This is a [React](https://react.dev/) project created with [Vite](https://vitejs.dev/). Make sure that you have installed React and Vite into your machine.
+
 
 
 
